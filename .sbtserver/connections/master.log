@@ -1,0 +1,16 @@
+New log file opened at Tue Sep 01 22:53:09 ART 2015 by 16066@scastineiras-ThinkPad-Edge-E430
+Taking next connection to: 58130
+New client attempting to connect on port: 33738-58130
+  Address = /127.0.1.1:58130
+This client on port 33738 has uuid a5f7b4dc-be79-4d01-9b86-d65a5652633a configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
+Connected Clients: play-fork-run-a5f7b4dc-be79-4d01-9b86-d65a5652633a
+Taking next connection to: 58130
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 58130
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 58130
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 58130
